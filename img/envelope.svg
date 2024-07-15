@@ -1,0 +1,16 @@
+<svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="e_mail_signature" clip-path="url(#clip0_2_63)">
+<path id="Vector" d="M9.99047 20.4809C15.5081 20.4809 19.9809 16.0081 19.9809 10.4905C19.9809 4.97288 15.5081 0.5 9.99047 0.5C4.47288 0.5 0 4.97288 0 10.4905C0 16.0081 4.47288 20.4809 9.99047 20.4809Z" fill="#33BFC8"/>
+<g id="Group">
+<path id="Vector_2" d="M13.9943 7.38275H5.45281C5.25275 7.38275 5.09056 7.54494 5.09056 7.745V13.827C5.09056 14.027 5.25275 14.1892 5.45281 14.1892H13.9943C14.1943 14.1892 14.3565 14.027 14.3565 13.827V7.745C14.3565 7.54494 14.1943 7.38275 13.9943 7.38275Z" stroke="white" stroke-miterlimit="10"/>
+<path id="Vector_3" d="M4.99524 8.79362L9.34224 11.4628C9.57103 11.5772 9.85701 11.5772 10.0858 11.4628L14.3565 8.79362" stroke="white" stroke-miterlimit="10"/>
+<path id="Vector_4" d="M6.36798 14.2274L7.74072 10.338" stroke="white" stroke-miterlimit="10"/>
+<path id="Vector_5" d="M13.041 14.2274L11.6683 10.338" stroke="white" stroke-miterlimit="10"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2_63">
+<rect width="20" height="20" fill="white" transform="translate(0 0.5)"/>
+</clipPath>
+</defs>
+</svg>
